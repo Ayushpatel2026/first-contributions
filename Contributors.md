@@ -4,6 +4,7 @@
 - [CodeLikeAyush](https://github.com/CodeLikeAyush)
 - [Jitae Moon] (https://github.com/jitae-moon)
 - [Apurva Sarkar] (https://github.com/ApurvaSarkar)
+- [Ayush Patel] (https://github.com/Ayushpatel2026)
 - [Adolfo Villalobos](https://github.com/AdolfoVillalobos)
 - [Bohdan Lupyr](https://github.com/Brolupyr777)
 - [Dev Singh Kanyal](https://github.com/dev-singh-kanyal) 
